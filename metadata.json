@@ -1,0 +1,7 @@
+{
+  "name": "Mr. Tails",
+  "symbol": "MRTAILS",
+  "uri": "https://yourdomain.com/path/to/metadata.json", // Placeholder URL, will update after upload
+  "seller_fee_basis_points": 500, // 5% royalty
+  "creators": null
+}
